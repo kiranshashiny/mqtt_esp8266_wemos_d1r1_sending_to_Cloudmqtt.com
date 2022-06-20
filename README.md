@@ -27,11 +27,11 @@ The Broker CLOUDMQTT's Parameters are what is entered in the code.
 
 
 The serial output from Arduino showing that the data is being sent.
+
 ![image](https://user-images.githubusercontent.com/14288989/174536975-14b5728b-da81-4dbf-b447-bb470c59b7c7.png)
 
 
 Broker Cloudmqtt's interface showing that the data is being received from the Wemos D1 R1
-
 
 ![image](https://user-images.githubusercontent.com/14288989/174537151-e59b4563-7d40-4b86-9f62-0a4ce24234f1.png)
 

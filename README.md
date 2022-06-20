@@ -63,3 +63,15 @@ Publish message being sent from the cloudmqtt.com's interface
 ![image](https://user-images.githubusercontent.com/14288989/174538501-29814628-b283-4471-a246-44a2d2a3affd.png)
 
 ---
+
+
+The Pubsub client code API documentation
+
+https://pubsubclient.knolleary.net/api
+
+Look at connect's parameters
+
+![image](https://user-images.githubusercontent.com/14288989/174538837-d1b30b1d-0fad-41f2-8e06-7d70bbac8784.png)
+
+
+

@@ -6,21 +6,13 @@ The File Examples PubSub -> mqtt_esp8266 was used with small changes to Publish 
 
 
 The changes to code was in :
--- X ---
-const char* ssid = "JioFiber-24";
-const char* password = "welcome2ibm";
-const char* mqtt_server = "m12.cloudmqtt.com";
 
----X--
-void setup() {
-  pinMode(BUILTIN_LED, OUTPUT);     // Initialize the BUILTIN_LED pin as an output
-  Serial.begin(115200);
-  setup_wifi();
-  client.setServer(mqtt_server, 19757);
-  client.setCallback(callback);
-}
+![image](https://user-images.githubusercontent.com/14288989/174536532-daebabb8-e656-41a1-ab5e-2f35dd6e310f.png)
 
----X---
+Line 112
+
+![image](https://user-images.githubusercontent.com/14288989/174536621-848f6864-4878-4e21-bb9b-167c6732e948.png)
+
 Look at line 92
 
 ![image](https://user-images.githubusercontent.com/14288989/174536178-78903100-fd84-4176-b7d4-4de0439a205a.png)

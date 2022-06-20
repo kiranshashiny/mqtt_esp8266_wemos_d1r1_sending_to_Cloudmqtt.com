@@ -48,3 +48,18 @@ Look at Upload speed set to 115200,
 and the port set to Wemos D1 R1 ( usbserial1420)
 
 ![image](https://user-images.githubusercontent.com/14288989/174537911-e91ab812-7c62-4873-af18-2027fd923c18.png)
+
+
+---
+
+Publish Message from cloudmqtt.com's interface seen on the Arduino Serial Monitor
+
+![image](https://user-images.githubusercontent.com/14288989/174538382-2cf345aa-3084-418e-bff1-5c146d3a9d65.png)
+
+
+
+---
+Publish message being sent from the cloudmqtt.com's interface
+![image](https://user-images.githubusercontent.com/14288989/174538501-29814628-b283-4471-a246-44a2d2a3affd.png)
+
+---
